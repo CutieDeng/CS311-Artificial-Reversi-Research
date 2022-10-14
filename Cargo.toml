@@ -7,6 +7,7 @@ edition = "2021"
 
 [dependencies]
 rand = "0.8"
+argparse = "*"
 
 [features] 
 cutie-optimize-level-1 = []
